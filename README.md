@@ -122,7 +122,7 @@ Events can be made relatively easily too. You just have to create a event class:
 ```python
 e = Event(authentication,parentCalendar)
 ```
-and give it a few nesessary details:
+and give it a few necessary details:
 ```python
 import time
 e.setSubject('Coffee!')
